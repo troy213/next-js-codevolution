@@ -1,6 +1,5 @@
 <div align='center'><h1>Codevolution NextJS Course</h1>
 </div>
-<hr />
 
 **Table of Content**
 
